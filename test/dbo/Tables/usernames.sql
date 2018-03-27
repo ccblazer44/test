@@ -1,4 +1,6 @@
-﻿CREATE TABLE [dbo].[usernames]
+﻿-- testing adding a comment
+
+CREATE TABLE [dbo].[usernames]
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
     [firstname] VARCHAR(50) NULL, 
