@@ -129,5 +129,6 @@
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
     <Build Include="Security\Permissions.sql" />
+    <Build Include="dbo\Tables\usernames.sql" />
   </ItemGroup>
 </Project>
